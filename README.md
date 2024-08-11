@@ -3,7 +3,7 @@
 
 # 🛡️ About Me
 
-My journey in computer science has ignited a passion for cybersecurity, leading me to explore the intricacies of securing digital assets. I am eager to transition into this field and am specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst. My goal is to apply my knowledge and skills in a dynamic environment where I can contribute to monitoring and securing critical systems against evolving threats.
+My journey in cybersecurity and digital forensics has sparked a passion for protecting digital assets, leading me to explore the intricacies of securing them. I am eager to apply my knowledge and skills in a dynamic environment where I can contribute to monitoring and defending critical systems against evolving threats.
 
 I'm excited about the opportunity to collaborate with a team of professionals dedicated to safeguarding the integrity and confidentiality of data, ensuring a robust security posture for the organization.
 
