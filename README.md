@@ -14,23 +14,21 @@ I'm excited about the opportunity to collaborate with a team of professionals de
 
 With a background in cybersecurity and digital forensics, I have developed a strong interest in the field of cybersecurity. I am excited to apply my skills and knowledge to help organizations safeguard their digital assets and respond to evolving threats.
 
-## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
+<h2>👨‍💻 Cyber Security Projects:</h2>
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+- <b>Project 1 -  (PintOS Development / Exploitation.)</b>
 
+| Task                                              | Tools/Skills Used                              | Achievements                                                           | Links                                               |
+|---------------------------------------------------|------------------------------------------------|-----------------------------------------------------------------------|-----------------------------------------------------|
+| **System Call Implementation**                    | C Programming, Operating Systems               | Implemented `sys_create`, `sys_remove`, `sys_open`, `sys_halt` calls, enhancing PintOS functionality. | [Repository](https://github.com/yourusername/pintos-project) |
+| **Tokenization**                                  | C Programming, Parsing Techniques              | Successfully parsed and processed command-line inputs.                | [Repository](https://github.com/yourusername/pintos-project) |
+| **Exploitation of sys_create**                    | Reverse Engineering, Hex/Machine Code          | Demonstrated a vulnerability in `sys_create` to manipulate system calls and delete files. | [Repository](https://github.com/yourusername/pintos-project) |
+| **Testing and Validation**                        | PintOS Framework, Unit Testing                 | Ensured reliability and correctness of system calls through rigorous testing. | [Repository](https://github.com/yourusername/pintos-project) |
+| **Documentation**                                 | Markdown, Technical Writing                    | Created detailed documentation and README for project clarity and user guidance. | [Repository](https://github.com/yourusername/pintos-project) |
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+-
 
 
 <h2>📜 Certificates </h2>
