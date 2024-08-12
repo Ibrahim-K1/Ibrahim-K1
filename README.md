@@ -26,7 +26,19 @@ With a background in cybersecurity and digital forensics, I have developed a str
 | **Testing and Validation**                        | PintOS Framework, Unit Testing                 | Ensured reliability and correctness of system calls through rigorous testing. |  |
 | **Documentation**                                 | Markdown, Technical Writing                    | Created detailed documentation and README for project clarity and user guidance. |  |
 
-<h2>👨‍💻 Cyber Security Projects:</h2>
+----------------------------------------------------------------------------------------------------------------
+
+<b>Project 2  -  (Security Data Analytics and Visualization)</b>
+| Task                          | Tools/Skills Used                       | Achievements                                                        | Link To Project                                                        |
+|-------------------------------|-----------------------------------------|--------------------------------------------------------------------|--------------------------------------------------------------|
+| **Data Integration**          | Jupyter Notebook, Pandas, Excel         | Combined multiple datasets from various sheets into a unified DataFrame. | [Repository](https://github.com/Ibrahim-K1/Security-Data-Analytics-and-Visualization) |
+| **Data Cleaning**             | Jupyter Notebook, Pandas                | Cleaned and preprocessed data to ensure consistency and accuracy.  |  |
+| **Anomaly Detection**         | Jupyter Notebook, Pandas, Scikit-learn  | Identified and analyzed anomalies within the datasets to ensure data quality and integrity. |  |
+| **Data Analysis**             | Jupyter Notebook, Pandas                | Analyzed cleaned data to extract meaningful insights and perform statistical analysis. |  |
+| **Data Visualization**        | Jupyter Notebook, Matplotlib, Seaborn   | Created visualizations such as graphs and charts to present data insights effectively. |  |
+| **Final Synthesis and Reporting** | Jupyter Notebook, Markdown           | Combined all tasks into a comprehensive report addressing a major question involving integrated analysis of the datasets. | |
+| **Documentation and Presentation** | Markdown, Jupyter Notebook           | Documented methodologies and results, and prepared presentations for project review. ||
+
 
 -
 
