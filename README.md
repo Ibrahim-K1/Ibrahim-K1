@@ -16,7 +16,7 @@ With a background in cybersecurity and digital forensics, I have developed a str
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
-- <b>Project 1 -  (PintOS Development / Exploitation.)</b>
+<h3> Project 1 -  (PintOS Development / Exploitation.):</h3>
 
 | Task                                              | Tools/Skills Used                              | Achievements                                                           | Link To Project                                               |
 |---------------------------------------------------|------------------------------------------------|-----------------------------------------------------------------------|-----------------------------------------------------|
@@ -28,7 +28,8 @@ With a background in cybersecurity and digital forensics, I have developed a str
 
 ----------------------------------------------------------------------------------------------------------------
 
-<b>Project 2  -  (Security Data Analytics and Visualization)</b>
+<h3> Project 2 (Security Data Analytics and Visualization):</h3>
+
 | Task                          | Tools/Skills Used                       | Achievements                                                        | Link To Project                                                        |
 |-------------------------------|-----------------------------------------|--------------------------------------------------------------------|--------------------------------------------------------------|
 | **Data Integration**          | Jupyter Notebook, Pandas, Excel         | Combined multiple datasets from various sheets into a unified DataFrame. | [Repository](https://github.com/Ibrahim-K1/Security-Data-Analytics-and-Visualization) |
@@ -39,8 +40,16 @@ With a background in cybersecurity and digital forensics, I have developed a str
 | **Final Synthesis and Reporting** | Jupyter Notebook, Markdown           | Combined all tasks into a comprehensive report addressing a major question involving integrated analysis of the datasets. | |
 | **Documentation and Presentation** | Markdown, Jupyter Notebook           | Documented methodologies and results, and prepared presentations for project review. ||
 
+<h3> Project 3  -  (Building a SIEM):</h3>
 
-<b>Project 3  -  (Building a SIEM)</b>
+| **Task**             | **Tools/Skills Used**                 | **Achievements**                                                                                       | **Link To Project** |
+|----------------------|---------------------------------------|--------------------------------------------------------------------------------------------------------|---------------------|
+| Data Forwarding      | Elastic Beats, Kali VM, Elastic SIEM  | Successfully configured the Elastic Beats agent on the Kali VM to forward security logs to Elastic SIEM, ensuring real-time data collection and monitoring. | [Repository](https://github.com/Ibrahim-K1/SIEM-Project)|
+| Event Generation     | Nmap, Kali VM                         | Executed various Nmap scanning techniques on the Kali VM to simulate different types of network scans, generating relevant security events for analysis. |  |
+| Log Analysis         | Elastic SIEM, Kibana                  | Utilized Elastic SIEM’s querying capabilities to filter and analyze logs, identifying patterns and anomalies. Created custom queries to focus on specific event types. |   |
+| Dashboard Creation   | Elastic SIEM, Kibana                  | Designed and implemented a comprehensive dashboard in Kibana to visualize security events, enabling real-time monitoring and easier interpretation of data trends. |      |
+| Alert Setup          | Elastic SIEM, Kibana                  | Developed and configured an alerting rule in Elastic SIEM to detect Nmap scan activities. The alert triggers notifications and actions, improving the ability to respond to potential security incidents promptly. | 
+
 
 
 <h2>📜 Certificates </h2>
