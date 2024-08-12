@@ -18,13 +18,13 @@ With a background in cybersecurity and digital forensics, I have developed a str
 
 - <b>Project 1 -  (PintOS Development / Exploitation.)</b>
 
-| Task                                              | Tools/Skills Used                              | Achievements                                                           | Links                                               |
+| Task                                              | Tools/Skills Used                              | Achievements                                                           | Link To Project                                               |
 |---------------------------------------------------|------------------------------------------------|-----------------------------------------------------------------------|-----------------------------------------------------|
-| **System Call Implementation**                    | C Programming, Operating Systems               | Implemented `sys_create`, `sys_remove`, `sys_open`, `sys_halt` calls, enhancing PintOS functionality. | [Repository](https://github.com/yourusername/pintos-project) |
-| **Tokenization**                                  | C Programming, Parsing Techniques              | Successfully parsed and processed command-line inputs.                | [Repository](https://github.com/yourusername/pintos-project) |
-| **Exploitation of sys_create**                    | Reverse Engineering, Hex/Machine Code          | Demonstrated a vulnerability in `sys_create` to manipulate system calls and delete files. | [Repository](https://github.com/yourusername/pintos-project) |
-| **Testing and Validation**                        | PintOS Framework, Unit Testing                 | Ensured reliability and correctness of system calls through rigorous testing. | [Repository](https://github.com/yourusername/pintos-project) |
-| **Documentation**                                 | Markdown, Technical Writing                    | Created detailed documentation and README for project clarity and user guidance. | [Repository](https://github.com/yourusername/pintos-project) |
+| **System Call Implementation**                    | C Programming, Operating Systems               | Implemented `sys_create`, `sys_remove`, `sys_open`, `sys_halt` calls, enhancing PintOS functionality. | [Repository](https://github.com/Ibrahim-K1/PintOS) |
+| **Tokenization**                                  | C Programming, Parsing Techniques              | Successfully parsed and processed command-line inputs.                | |
+| **Exploitation of sys_create**                    | Reverse Engineering, Hex/Machine Code          | Demonstrated a vulnerability in `sys_create` to manipulate system calls and delete files. |  |
+| **Testing and Validation**                        | PintOS Framework, Unit Testing                 | Ensured reliability and correctness of system calls through rigorous testing. |  |
+| **Documentation**                                 | Markdown, Technical Writing                    | Created detailed documentation and README for project clarity and user guidance. |  |
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
