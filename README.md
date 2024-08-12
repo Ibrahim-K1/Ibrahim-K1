@@ -40,7 +40,7 @@ With a background in cybersecurity and digital forensics, I have developed a str
 | **Documentation and Presentation** | Markdown, Jupyter Notebook           | Documented methodologies and results, and prepared presentations for project review. ||
 
 
--
+<b>Project 3  -  (Building a SIEM)</b>
 
 
 <h2>📜 Certificates </h2>
