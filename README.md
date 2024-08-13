@@ -52,7 +52,7 @@ With a background in cybersecurity and digital forensics, I have developed a str
 
 
 
-<h2>📜 Certificates </h2>
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
+
+
 
